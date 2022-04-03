@@ -10,6 +10,13 @@
 	<description>
 	The 13th Vendemiaire
 	</description>
+	<modDependencies>
+		<li>
+			<packageId>CETeam.CombatExtended</packageId>
+			<displayName>Combat Extended</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=1631756268</steamWorkshopUrl>
+		</li>
+	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld</li>
 		<li>Ludeon.RimWorld.Royalty</li>

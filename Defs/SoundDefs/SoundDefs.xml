@@ -2,7 +2,7 @@
 
 <Defs>
     <SoundDef>
-        <defName>GN_Shot_ArchotechBS</defName>
+        <defName>HRK_Shot_13thVendemiaire</defName>
         <context>MapOnly</context>
         <eventNames />
         <maxSimultaneous>1</maxSimultaneous>
@@ -10,7 +10,7 @@
             <li>
                 <grains>
                     <li Class="AudioGrain_Folder">
-                        <clipFolderPath>Weapons/GN_Shot_ArchotechBS</clipFolderPath>
+                        <clipFolderPath>Weapons/HRK_Shot_13thVendemiaire</clipFolderPath>
                     </li>
                 </grains>
                 <volumeRange>

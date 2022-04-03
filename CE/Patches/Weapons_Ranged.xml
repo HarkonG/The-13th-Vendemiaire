@@ -12,7 +12,7 @@
                 <!--===== TOOLS FOR THE TOOL GOD =====-->
                 <li Class="PatchOperationReplace">
                     <xpath>
-						/Defs/ThingDef[defName = "GN_ArchotechBS"]/tools
+						/Defs/ThingDef[defName = "HRK_13thVendemiaire"]/tools
                     </xpath>
                     <value>
                         <tools>
@@ -41,9 +41,9 @@
                     </value>
                 </li>
 
-                <!--===== GN_ArchotechBS ===== -->
+                <!--===== HRK_13thVendemiaire ===== -->
                 <li Class="CombatExtended.PatchOperationMakeGunCECompatible">
-                    <defName>GN_ArchotechBS</defName>
+                    <defName>HRK_13thVendemiaire</defName>
                     <statBases>
                         <WorkToMake>57000</WorkToMake>
                         <Mass>9.0</Mass>
@@ -68,7 +68,7 @@
                         <range>10</range>
                         <!--<burstShotCount>8</burstShotCount>
                         <ticksBetweenBurstShots>7</ticksBetweenBurstShots>-->
-                        <soundCast>GN_Shot_ArchotechBS</soundCast>
+                        <soundCast>HRK_Shot_13thVendemiaire</soundCast>
                         <soundCastTail>GunTail_Medium</soundCastTail>
                         <muzzleFlashScale>9</muzzleFlashScale>
                     </Properties>
