@@ -9,8 +9,8 @@
         <subSounds>
             <li>
                 <grains>
-                    <li Class="AudioGrain_Folder">
-                        <clipFolderPath>Weapons/HRK_Shot_13thVendemiaire</clipFolderPath>
+                    <li Class="AudioGrain_Clip">
+                        <clipPath>Weapons/HRK_Shot_13thVendemiaire</clipPath>
                     </li>
                 </grains>
                 <volumeRange>
