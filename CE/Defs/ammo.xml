@@ -76,7 +76,7 @@
     <defName>Bullet_ArchotechShell</defName>
     <label>Archotech Pellet</label>
     <graphicData>
-      <texPath>Things/Projectile/Charged/charge_regular</texPath>
+      <texPath>Things/Projectile/Charged/ChargeShot</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>0.3</drawSize>
     </graphicData>
