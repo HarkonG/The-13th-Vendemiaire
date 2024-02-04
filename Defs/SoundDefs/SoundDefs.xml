@@ -4,7 +4,7 @@
     <SoundDef>
         <defName>HRK_Shot_13thVendemiaire</defName>
         <context>MapOnly</context>
-        <eventNames />
+        <eventNames/>
         <maxSimultaneous>1</maxSimultaneous>
         <subSounds>
             <li>
